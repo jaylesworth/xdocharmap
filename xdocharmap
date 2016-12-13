@@ -28,6 +28,9 @@ dmenuProcess = Popen("dmenu", stdin=subprocess.PIPE,stdout=subprocess.PIPE,
 for char in keymaps.keys(): dmenuProcess.stdin.write(char+'\n')
 selection,_ = dmenuProcess.communicate()
 selection = selection.rstrip()
-selectedChar = keymaps[selection]
 
-print(selectedChar)
+#Only continue if this was a valid selection
+if selection in keymaps:
+    selectedChar = keymaps[selection]
+    xdoProcess = Popen('xdotool type '+selectedChar,shell=True)
+    xdoProcess.wait()
