@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+import subprocess
+from subprocess import Popen
+import sys
 
 #mapFiles is a list of files to read character definitions from
 mapFiles = ["maps/Greek"]
@@ -18,4 +21,13 @@ for fname in mapFiles:
         char,name = line.split(maxsplit=1)
         keymaps[name] = char
 
-print(keymaps)
+#Use dmenu to choose a character
+dmenuProcess = Popen("dmenu", stdin=subprocess.PIPE,stdout=subprocess.PIPE,
+    stderr=sys.stderr, shell=True,bufsize=1,universal_newlines=True)
+
+for char in keymaps.keys(): dmenuProcess.stdin.write(char+'\n')
+selection,_ = dmenuProcess.communicate()
+selection = selection.rstrip()
+selectedChar = keymaps[selection]
+
+print(selectedChar)
