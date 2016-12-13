@@ -27,203 +27,254 @@
 À A-grave
 Á A-acute
 Â A-circ
+Ä A-uml
 
 ? b-grave
 b́ b-acute
 b̂ b-circ
+b̈ b-uml
 
 ? B-grave
 B́ B-acute
 B̂ B-circ
+B̈ B-uml
 
 ? c-grave
 ć c-acute
 ĉ c-circ
+c̈ c-uml
 
 ? C-grave
 Ć C-acute
 Ĉ C-circ
+C̈ C-uml
 
 ? d-grave
 d́ d-acute
 d̂ d-circ
+? d-uml
 
 ? D-grave
 D́ D-acute
 D̂ D-circ
+? D-uml
 
 è e-grave
 é e-acute
 ê e-circ
+ë e-uml
 
 È E-grave
 É E-acute
 Ê E-circ
+Ë E-uml
 
 ? f-grave
 f́ f-acute
 ? f-circ
+? f-uml
 
 ? F-grave
 F́ F-acute
 ? F-circ
+? F-uml
 
 ? g-grave
 ǵ g-acute
 ĝ g-circ
+? g-uml
 
 ? G-grave
 Ǵ G-acute
 Ĝ G-circ
+? G-uml
 
 h̀ h-grave
 h́ h-acute
 ĥ h-circ
+ḧ h-uml
 
 H̀ H-grave
 H́ H-acute
 Ĥ H-circ
+Ḧ H-uml
 
 ì i-grave
 í i-acute
 î i-circ
+ï i-uml
 
 Ì I-grave
 Í I-acute
 Î I-circ
+Ï I-uml
 
 ? j-grave
 ȷ́ j-acute
 ĵ j-circ
+? j-uml
 
 ? J-grave
 J́ J-acute
 Ĵ J-circ
+? J-uml
 
 k̀ k-grave
 ḱ k-acute
 k̂ k-circ
+k̈ k-uml
 
 K̀ K-grave
 Ḱ K-acute
 K̂ K-circ
+K̈ K-uml
 
 ? l-grave
 ĺ l-acute
 l̂ l-circ
+? l-uml
 
 ? L-grave
 Ĺ L-acute
 L̂ L-circ
+? L-uml
 
 m̀ m-grave
 ḿ m-acute
 m̂ m-circ
+m̈ m-uml
 
 M̀ M-grave
 Ḿ M-acute
 M̂ M-circ
+M̈ M-uml
 
 ǹ n-grave
 ń n-acute
 n̂ n-circ
+n̈ n-uml
 
 Ǹ N-grave
 Ń N-acute
 N̂ N-circ
+N̈ N-uml
 
 ò o-grave
 ó o-acute
 ô o-circ
+ö o-uml
 
 Ò O-grave
 Ó O-acute
 Ô O-circ
+Ö O-uml
 
 ? p-grave
 ṕ p-acute
 ? p-circ
+p̈ p-uml
 
 ? P-grave
 Ṕ P-acute
 ? P-circ
+P̈ P-uml
 
 ? q-grave
 q́ q-acute
 ? q-circ
+q̈ q-uml
 
 ? Q-grave
 Q́ Q-acute
 ? Q-circ
+Q̈ Q-uml
 
 r̀ r-grave
 ŕ r-acute
 r̂ r-circ
+? r-uml
 
 R̀ R-grave
 Ŕ R-acute
 R̂ R-circ
+? R-uml
 
 s̀ s-grave
 ś s-acute
 ŝ s-circ
+s̈ s-uml
 
 S̀ S-grave
 Ś S-acute
 Ŝ S-circ
+S̈ S-uml
 
 t̀ t-grave
 t́ t-acute
 t̂ t-circ
+ẗ t-uml
 
 T̀ T-grave
 T́ T-acute
 T̂ T-circ
+T̈ T-uml
 
 ù u-grave
 ú u-acute
 û u-circ
+ü u-uml
 
 Ù U-grave
 Ú U-acute
 Û U-circ
+Ü U-uml
 
 v̀ v-grave
 v́ v-acute
 v̂ v-circ
+v̈ v-uml
 
 V̀ V-grave
 V́ V-acute
 V̂ V-circ
+V̈ V-uml
 
 ẁ w-grave
 ẃ w-acute
 ŵ w-circ
+ẅ w-uml
 
 Ẁ W-grave
 Ẃ W-acute
 Ŵ W-circ
+Ẅ W-uml
 
 x̀ x-grave
 x́ x-acute
 x̂ x-circ
+ẍ x-uml
 
 X̀ X-grave
 X́ X-acute
 X̂ X-circ
+Ẍ X-uml
 
 ỳ y-grave
 ý y-acute
 ŷ y-circ
+ÿ y-uml
 
 Ỳ Y-grave
 Ý Y-acute
 Ŷ Y-circ
+Ÿ Y-uml
 
 z̀ z-grave
 ź z-acute
 ẑ z-circ
+z̈ z-uml
 
 Z̀ Z-grave
 Ź Z-acute
 Ẑ Z-circ
+Z̈ Z-uml
