@@ -1,0 +1,178 @@
+#Ligatures and other fancy Latin-ish characters
+æ ae
+Æ AE
+œ oe
+Œ OE
+ð eth
+Ð Eth
+þ thorn
+Þ Thorn
+ß sz
+ø o-slash
+Ø O-slash
+
+#Latin characters with diacritics
+#The following accents should be available in both lower and uppercase:
+#grave, acute, circ[umflex], uml[aut], tilde, ring, macr[on], breve, caron
+à a-grave
+á a-acute
+â a-circ
+ä a-uml
+ã a-tilde
+å a-ring
+? a-macr
+ă a-breve
+ǎ a-caron
+
+À A-grave
+Á A-acute
+
+? b-grave
+b́ b-acute
+
+? B-grave
+B́ B-acute
+
+? c-grave
+ć c-acute
+
+? C-grave
+Ć C-acute
+
+? d-grave
+d́ d-acute
+
+? D-grave
+D́ D-acute
+
+è e-grave
+é e-acute
+
+È E-grave
+É E-acute
+
+? f-grave
+f́ f-acute
+
+? F-grave
+F́ F-acute
+
+? g-grave
+ǵ g-acute
+
+? G-grave
+Ǵ G-acute
+
+h̀ h-grave
+h́ h-acute
+
+H̀ H-grave
+H́ H-acute
+
+ì i-grave
+í i-acute
+
+Ì I-grave
+Í I-acute
+
+? j-grave
+ȷ́ j-acute
+
+? J-grave
+J́ J-acute
+
+k̀ k-grave
+ḱ k-acute
+
+K̀ K-grave
+Ḱ K-acute
+
+? l-grave
+ĺ l-acute
+
+? L-grave
+Ĺ L-acute
+
+m̀ m-grave
+ḿ m-acute
+
+M̀ M-grave
+Ḿ M-acute
+
+ǹ n-grave
+ń n-acute
+
+Ǹ N-grave
+Ń N-acute
+
+ò o-grave
+ó o-acute
+
+Ò O-grave
+Ó O-acute
+
+? p-grave
+ṕ p-acute
+
+? P-grave
+Ṕ P-acute
+
+? q-grave
+q́ q-acute
+
+? Q-grave
+Q́ Q-acute
+
+r̀ r-grave
+ŕ r-acute
+
+R̀ R-grave
+Ŕ R-acute
+
+s̀ s-grave
+ś s-acute
+
+S̀ S-grave
+Ś S-acute
+
+t̀ t-grave
+t́ t-acute
+
+T̀ T-grave
+T́ T-acute
+
+ù u-grave
+ú u-acute
+
+Ù U-grave
+Ú U-acute
+
+v̀ v-grave
+v́ v-acute
+
+V̀ V-grave
+V́ V-acute
+
+ẁ w-grave
+ẃ w-acute
+
+Ẁ W-grave
+Ẃ W-acute
+
+x̀ x-grave
+x́ x-acute
+
+X̀ X-grave
+X́ X-acute
+
+ỳ y-grave
+ý y-acute
+
+Ỳ Y-grave
+Ý Y-acute
+
+z̀ z-grave
+ź z-acute
+
+Z̀ Z-grave
+Ź Z-acute

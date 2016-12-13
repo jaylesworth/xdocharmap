@@ -4,7 +4,7 @@ from subprocess import Popen
 import sys
 
 #mapFiles is a list of files to read character definitions from
-mapFiles = ["maps/Greek"]
+mapFiles = ["maps/Greek", "maps/Latin"]
 
 #keymaps is a dictionary of name:character combinations, to be populated from
 #mapFiles
