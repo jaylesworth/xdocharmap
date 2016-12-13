@@ -1,0 +1,21 @@
+#!/usr/bin/env python3
+
+#mapFiles is a list of files to read character definitions from
+mapFiles = ["maps/Greek"]
+
+#keymaps is a dictionary of name:character combinations, to be populated from
+#mapFiles
+keymaps = {}
+
+#Read all the map files and put them into keymaps dictionary
+for fname in mapFiles:
+    for line in open(fname):
+        #Strip trailing whitespace (esp newline), then check for blank lines or
+        #comment lines
+        line = line.rstrip()
+        if line=='' or line[0]=='#':
+            continue
+        char,name = line.split(maxsplit=1)
+        keymaps[name] = char
+
+print(keymaps)
